@@ -1,0 +1,5 @@
+- Create a folder
+- Initialize git
+- create vitual environment-and activate
+- Python - requrements.txt
+installed django --- pip freeze > requirements.txt
